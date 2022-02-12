@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Competitive Programming**
 
-- 📫 How to reach me **https://www.linkedin.com/in/arpit-khanulia-1a6205200/**
+- 📫 How to reach me **arpitkhanulia7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
