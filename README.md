@@ -1,5 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Arpit;A.K.A.+FiREDR460N)](https://git.io/typing-svg)
 <h3 align="center">A passionate Programmer and Problem Solver.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pnr2j1LdzNsAAAAC/obito.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
