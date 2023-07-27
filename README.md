@@ -1,6 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Arpit;A.K.A.+FiREDR460N)](https://git.io/typing-svg)
 <h3 align="center">A passionate Programmer and Problem Solver.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pnr2j1LdzNsAAAAC/obito.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -10,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pnr2j1LdzNsAAAAC/obito.gif">
 <a href="https://linkedin.com/in/arpit-khanulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-khanulia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arpitkhanulia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitkhanulia7" height="30" width="40" /></a>
 </p>
