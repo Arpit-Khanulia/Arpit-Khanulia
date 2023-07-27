@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Arpit;A.K.A.+₣łƦE_ÐƦλGØ₦)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Arpit;A.K.A.+FiREDR460N)](https://git.io/typing-svg)
 <h3 align="center">A passionate Programmer and Problem Solver.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
