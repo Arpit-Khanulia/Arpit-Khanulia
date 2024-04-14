@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
+- 
+- - 📫 How to reach me **arpitkhanulia7@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://arpit-khanulia.github.io/Terminal_Portfolio/)
-
-- 📫 How to reach me **arpitkhanulia7@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/12b3dzvRiTIBekdyKsxHp29eI8QsxBPuTVg8llh1JD70/edit)
 
