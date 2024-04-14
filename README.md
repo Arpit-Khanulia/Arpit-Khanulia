@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 🤝 I’m looking for help with **Competitive Programming**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://arpit-khanulia.github.io/Terminal_Portfolio/)
 
 - 📫 How to reach me **arpitkhanulia7@gmail.com**
